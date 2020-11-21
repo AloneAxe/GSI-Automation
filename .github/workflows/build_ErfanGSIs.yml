@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://oxygenos.oneplus.net/OnePlus7Oxygen_14.P.30_OTA_030_all_2010111752_6272f7c1874e4af4.zip
-  ROM_NAME: OxygenOS
-  ZIP_NAME: BurkayGSI_OnePlus7Oxygen_14.P.30_OTA_030_all_2010111752_6272f7c1874e4af4
+  ROM_URL: https://bigota.d.miui.com/V11.0.2.0.QCPINXM/miui_OLIVELITEINGlobal_V11.0.2.0.QCPINXM_11bc0bdf26_10.0.zip
+  ROM_NAME: MIUI
+  ZIP_NAME: BurkayGSI_miui_OLIVELITEINGlobal_V11.0.2.0.QCPINXM_11bc0bdf26_10.0
   TZ: Asia/Kolkata
   MIR: bit
 jobs:
