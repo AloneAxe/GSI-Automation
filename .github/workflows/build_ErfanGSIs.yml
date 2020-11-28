@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V11.0.2.0.QCPINXM/miui_OLIVELITEINGlobal_V11.0.2.0.QCPINXM_11bc0bdf26_10.0.zip
+  ROM_URL: https://bigota.d.miui.com/V12.0.1.0.QCOINXM/miui_GINKGOINGlobal_V12.0.1.0.QCOINXM_4c43ebdc8f_10.0.zip
   ROM_NAME: MIUI
-  ZIP_NAME: BurkayGSI_miui_OLIVELITEINGlobal_V11.0.2.0.QCPINXM_11bc0bdf26_10.0
+  ZIP_NAME: BurkayGSI_V12.0.1.0.QCOINXM/miui_GINKGOINGlobal_V12.0.1.0.QCOINXM_4c43ebdc8f_10.0
   TZ: Asia/Kolkata
   MIR: bit
 jobs:
